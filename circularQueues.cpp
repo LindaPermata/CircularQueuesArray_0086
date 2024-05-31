@@ -11,5 +11,10 @@ public:
         REAR = -1;
     }
 
+    void insert() {
+        
+        
+    }
+
 
 };
